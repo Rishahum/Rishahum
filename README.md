@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📝 I regularly write articles on [When I am free, I like to read about geopolitics.](When I am free, I like to read about geopolitics.)
+- 📝 When I am free, I like to read about geopolitics.
 
 - 📫 How to reach me **rishasinha07@gmail.com**
 
