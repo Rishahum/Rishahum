@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://fb.com/sinha risha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sinha risha" height="30" width="40" /></a>
 <a href="https://instagram.com/sinha_risha3101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sinha_risha3101" height="30" width="40" /></a>
-<a href=""></a>
+<a href="https://www.linkedin.com/in/risha-sinha-782538221/" ><img align="center" src="file:///C:/Users/91966/Downloads/linkedin.svg" height="30" width="40" /></a>
   
 </p>
 
